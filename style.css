@@ -1,0 +1,18 @@
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    margin-top:250px;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    border: 2px solid red;
+    padding: 96px 32px;
+    font-size: 16px;
+    font-family: Apple Chancery, cursive;
+    opacity: 1;
+    transition: 2s;
+}
+
+.button:hover {opacity: 0.25}
